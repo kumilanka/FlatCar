@@ -9,4 +9,6 @@ TODO:
 - Update  to Unity version 2018.2.18f1
 - Track complete effect (shooting stars etc.)
 - Better wheel graphics
+- Menu to select levels
+- Level structure to its own scene
 
